@@ -23,5 +23,8 @@ The project involves several components:
 2. **Model Training:** Fine-tuning of DistilBERT for event trigger identification and classification.
 3. **Evaluation:** Assessing model performance and accuracy.
 
+   ![Flow](https://github.com/gadmin7/EventExtraction/blob/main/event_extraction.drawio.png)
+
+
 
 
